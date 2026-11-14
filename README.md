@@ -38,9 +38,24 @@ Most production repositories contain client or internal systems and remain priva
 
 ## Engineering toolkit
 
-**AI and automation**
+**AI & agent engineering**
 
-`AI agents` · `tool / function calling` · `RAG` · `multimodal AI` · `voice AI` · `prompt engineering` · `n8n` · `API integration`
+![AI Agents](https://img.shields.io/badge/AI_Agents-111827?style=flat-square)
+![LLM Integration](https://img.shields.io/badge/LLM_Integration-412991?style=flat-square)
+![Agent Workflows](https://img.shields.io/badge/Agent_Workflows-6D28D9?style=flat-square)
+![Tool Calling](https://img.shields.io/badge/Tool_Calling-7C3AED?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-2563EB?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0F766E?style=flat-square)
+![Fine-Tuning Tools](https://img.shields.io/badge/Fine--Tuning_Tools-0369A1?style=flat-square)
+![Conversational AI](https://img.shields.io/badge/Conversational_AI-0891B2?style=flat-square)
+![Voice AI](https://img.shields.io/badge/Voice_AI-0284C7?style=flat-square)
+![Multimodal AI](https://img.shields.io/badge/Multimodal_AI-4F46E5?style=flat-square)
+![AI Image & Video](https://img.shields.io/badge/AI_Image_%26_Video-6366F1?style=flat-square)
+![Multi-LLM Systems](https://img.shields.io/badge/Multi--LLM_Systems-4338CA?style=flat-square)
+![AI Automation](https://img.shields.io/badge/AI_Automation-0D9488?style=flat-square)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![API Integration](https://img.shields.io/badge/API_Integration-059669?style=flat-square)
+![CRM Integration](https://img.shields.io/badge/CRM_Integration-047857?style=flat-square)
 
 **Application engineering**
 
