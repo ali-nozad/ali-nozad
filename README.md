@@ -14,7 +14,7 @@ I design and ship AI agents, intelligent workflows, and full-stack products that
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-alinozad.com-0B1020?style=flat-square&logo=safari&logoColor=white)](https://alinozad.com)
 [![Email](https://img.shields.io/badge/Email-info%40alinozad.com-0B1020?style=flat-square&logo=gmail&logoColor=white)](mailto:info@alinozad.com)
-[![Open to collaboration](https://img.shields.io/badge/Open_to-projects_%26_collaboration-16A085?style=flat-square)](https://alinozad.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ali_Nozad-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-nozad-13830726m/)
 
 </div>
 
